@@ -15,7 +15,7 @@
 5 Screws on top plate
 ![IMG_20250316_001925972](https://github.com/user-attachments/assets/0561d1d9-04cc-40c0-a187-c6fdc7750eb5)
 
-- Bottom from PLA 3D Print as additional charge
+- Bottom from PLA 3D Print 
 
   -------------------------------------------------------------------------------------------------------------
 - Pinator!
