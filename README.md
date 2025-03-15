@@ -15,7 +15,8 @@
 5 Screws on top plate
 ![IMG_20250316_001925972](https://github.com/user-attachments/assets/0561d1d9-04cc-40c0-a187-c6fdc7750eb5)
 
-- Bottom from PLA 3D Print 
+- Sandwich Bottom from PLA 3D Print 
+![1000004694](https://github.com/user-attachments/assets/3b90f435-6feb-4f7b-a24a-10b2a94f74d0)
 
   -------------------------------------------------------------------------------------------------------------
 - Pinator!
