@@ -36,7 +36,10 @@ My Pinators
 ![IMG_20250314_211810014](https://github.com/user-attachments/assets/07c302b9-b98d-4615-92f5-a6ef09af2def)
 ![IMG_20250313_152955744](https://github.com/user-attachments/assets/a281da53-6960-4e87-bdfb-3a4eaff7003f)
 ![IMG_20250313_152750883](https://github.com/user-attachments/assets/33e72804-01f0-4b1b-90ea-7114e2ec3879)
----------------------------------
+- Case by beekeeb
+https://www.printables.com/model/660112-low-profile-case-for-piantor-pro-42-36-keyboard
+
+--------------------------------
 Macropad 3x3 Handwire
 
 with RP2040 Zero
