@@ -1,12 +1,5 @@
 # Kyboards
-----------------------------------------------------------
-- Sofle Wireless ZMK
-  ![IMG_20250325_230952002](https://github.com/user-attachments/assets/419f17ef-b5b7-486a-9036-9a8751737220)
-
-
-
---------------------------------
-
+---------------------------------------------------------
 Lily58 QMK Cookie and creame
 ![IMG_20250405_193859833](https://github.com/user-attachments/assets/87721c66-594f-4cb2-92a4-e62ddd0461dc)
 ![IMG_20250405_193912750](https://github.com/user-attachments/assets/8778dea1-744d-48a5-8621-d02d1eb56480)
