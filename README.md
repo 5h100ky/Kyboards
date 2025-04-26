@@ -14,13 +14,5 @@ Lily58 QMK Cookie and creame
 Otemu Brown and OEM Keycaps
 
 --------------------------------
-Corne V4 Handwired
-- Gateron V2 Low profile Brown Switches
-- PTEG Carbon Fiber 12mm top plate
-![IMG_20250403_220022513](https://github.com/user-attachments/assets/14593a1a-1231-4bd0-a311-ba2aa7b1f70b)
-![IMG_20250403_220033090](https://github.com/user-attachments/assets/0a54848d-ccb5-40d5-a08c-aca908f6ec54)
-![IMG_20250408_161303091](https://github.com/user-attachments/assets/9aa2b185-6884-418a-85b3-1a19a1f351bb)
-![IMG_20250408_161314725](https://github.com/user-attachments/assets/76828207-9d72-442d-8197-6e836412b28a)
-
 
 
